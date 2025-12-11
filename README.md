@@ -61,15 +61,15 @@
 
 # 📊GitHub Stats :
 
-[<img src="https://github-readme-stats.vercel.app/api?username=vushakolaPhanindra&show_icons=true&count_private=true&include_all_commits=true&theme=react" height="175">]([https://github-readme-stats.vercel.app/api?username=vushakolaPhanindra](https://github-readme-stats.vercel.app/api?username=vushakolaPhanindra&theme=react&hide_border=true&include_all_commits=false&count_private=false))
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vushakolaPhanindra&layout=compact&theme=react" height="175">]([https://github-readme-stats.vercel.app/api/top-langs/?username=vushakolaPhanindra](https://github-readme-stats.vercel.app/api/top-langs/?username=vushakolaPhanindra&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact))
+[<img src="https://github-readme-stats.vercel.app/api?username=Dharmateja01&show_icons=true&count_private=true&include_all_commits=true&theme=react" height="175">]([https://github-readme-stats.vercel.app/api?username=Dharmateja01](https://github-readme-stats.vercel.app/api?username=Dharmateja01&theme=react&hide_border=true&include_all_commits=false&count_private=false))
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmateja01&layout=compact&theme=react" height="175">]([https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmateja01](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmateja01&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact))
 
 <table>
   <tbody>
     <tr>
       <td>
-        <a href="https://github-readme-streak-stats.herokuapp.com/?user=vushakolaPhanindra">
-          <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=vushakolaPhanindra&theme=react&hide_border=true">
+        <a href="https://github-readme-streak-stats.herokuapp.com/?user=Dharmateja01">
+          <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=Dharmateja01&theme=react&hide_border=true">
         </a>
       </td>
     </tr>
@@ -77,8 +77,8 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vushakolaPhanindra">
-          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vushakolaPhanindra&theme=react&hide_border=true"/>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dharmateja01">
+          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dharmateja01&theme=react&hide_border=true"/>
         </a>
       </td>
     </tr>
@@ -89,13 +89,13 @@
   <tbody>
     <tr>
       <th>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vushakolaPhanindra">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vushakolaPhanindra&theme=react&hide_border=true"/>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dharmateja01">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dharmateja01&theme=react&hide_border=true"/>
         </a>
       </th>
       <th>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vushakolaPhanindra&">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vushakolaPhanindra&theme=react&hide_border=true"/>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dharmateja01&">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dharmateja01&theme=react&hide_border=true"/>
         </a>
       </th>
     </tr>
@@ -103,13 +103,13 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vushakolaPhanindra">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vushakolaPhanindra&theme=react&hide_border=true"/>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dharmateja01">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dharmateja01&theme=react&hide_border=true"/>
         </a>
       </td>
       <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vushakolaPhanindra">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vushakolaPhanindra&theme=react&hide_border=true"/>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dharmateja01">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dharmateja01&theme=react&hide_border=true"/>
         </a>
       </td>
     </tr>
@@ -117,7 +117,7 @@
 </table>
 
 ## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=vushakolaPhanindra&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-trophies.vercel.app/?username=Dharmateja01&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 
 
@@ -125,4 +125,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vushakolaPhanindra&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Dharmateja01&icon=0&color=0)](https://visitcount.itsvg.in)
