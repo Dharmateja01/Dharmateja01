@@ -14,10 +14,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/vushakolaPhanindra/">
+  <a href="https://github.com/Dharmateja01/">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/vushakola-phanindra-144319298/">
+  <a href="https://www.linkedin.com/in/panduga-dharma-teja-008b5a282/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:pandugadharmateja.com">
