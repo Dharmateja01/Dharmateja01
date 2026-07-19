@@ -29,7 +29,7 @@
 
 ## What Drives Me
 
-✨ I enjoy building software that solves real-world problems and creates meaningful impact.
+✨ I enjoy building software that solves real-world problems and creates meaningful impacts.
 
 💡 I'm passionate about combining Full Stack Development, AI, and Automation to create practical and scalable solutions.
 
